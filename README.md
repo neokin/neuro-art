@@ -32,6 +32,23 @@
   <a href="#license">License</a>
 </p>
 
+## Usefull Links for troubleshooting
+Troubles with 
+
+Firebase:
+
+https://stackoverflow.com/questions/64812846/firestore-error-9-failed-precondition-the-cloud-firestore-api-is-not-availa?noredirect=1&lq=1
+
+ImportError: libcublas.so.10.0: cannot open shared object file: No such file or directory:
+
+https://stackoverflow.com/questions/55224016/importerror-libcublas-so-10-0-cannot-open-shared-object-file-no-such-file-or
+
+https://ubuntu.pkgs.org/20.04/ubuntu-multiverse-amd64/libcusolver10_10.1.243-3_amd64.deb.html
+
+backend/keyfiles/cred.json not found, generate
+
+https://firebase.google.com/docs/auth/admin/create-custom-tokens
+
 ## Motivation
 Ever since Deep Neural Style Transfer was introduced in 2016 [Neural Style Transfer](https://arxiv.org/abs/1508.06576) by Leon Gatys et al, the world has been fascinated by the creative power of Deep Learning Algorithms. Following the footseps of many people who were curious to build their own implementation and deployment we designed our web application to allow curious people who want to test out NST. Alongside inquisitiveness and diving into the structure of NST our application also lets users leverage the power of  to create beautiful art using a varity of paintings. Try try it out!
 
